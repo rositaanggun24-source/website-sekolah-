@@ -20,7 +20,7 @@ export default function Profil() {
         <div className="mx-auto flex max-w-7xl flex-wrap items-center justify-between gap-4 px-6 py-4">
           <Link href="/" className="flex items-center gap-3">
             <img
-              src="/images/logo%20MAN%201%20TEGAL.jpg"
+              src="/Images/logo%20MAN%201%20TEGAL.jpg"
               alt="Logo MAN 1 Tegal"
               className="h-14 w-14 object-contain"
             />
