@@ -10,7 +10,7 @@ export default function Home() {
           {/* LOGO MADRASAH */}
           <Link href="/" className="flex items-center gap-3">
             <img
-              src="/images/logo%20MAN%201%20TEGAL.jpg"
+              src="/Images/logo%20MAN%201%20TEGAL.jpg"
               alt="Logo MAN 1 Tegal"
               className="h-14 w-14 shrink-0 object-contain"
             />
@@ -59,7 +59,7 @@ export default function Home() {
       <section
         className="relative flex min-h-[580px] items-center bg-cover bg-center md:min-h-[650px]"
         style={{
-          backgroundImage: "url('/images/MAN%201%20TEGAL.jpg')",
+          backgroundImage: "url('/Images/MAN%201%20TEGAL.jpg')",
         }}
       >
         <div className="absolute inset-0 bg-gradient-to-r from-emerald-950/90 via-emerald-950/60 to-emerald-950/10" />
